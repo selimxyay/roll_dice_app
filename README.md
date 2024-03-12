@@ -1,1 +1,1 @@
-This app teaches you the core widgets in Flutter such as MaterialApp and Scaffold. You can learn the different use cases of Stateless and Stateful widgets, some of the most popular and used widgets such as Container and Center.
+This app teaches you the core widgets in Flutter such as MaterialApp and Scaffold. You can learn the different use cases of Stateless and Stateful widgets, and some of the most popular and used widgets such as Container and Center.
