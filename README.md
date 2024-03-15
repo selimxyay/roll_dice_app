@@ -1,16 +1,21 @@
-# udemy_flutter
+Flutter Dice App
 
-A new Flutter project.
+This is a simple Flutter app that simulates rolling a dice. It's a great introduction to building user interfaces and working with basic Flutter functionalities.
 
-## Getting Started
+Features
 
-This project is a starting point for a Flutter application.
+- Simulates rolling a single die.
+- Displays the rolled number on the screen with an image of the corresponding dice face.
 
-A few resources to get you started if this is your first Flutter project:
+Learning Objectives
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This app was created to explore the following Flutter concepts:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Building user interfaces with widgets.
+- Working with images and assets.
+- Implementing user interactions (like button clicks).
+- Applying basic styling to widgets.
+
+Inspiration
+
+This project was inspired by a Flutter course on Udemy, focusing on learning the fundamentals of Flutter development.
