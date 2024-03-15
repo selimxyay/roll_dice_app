@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'dart:math';
 
-class DiceRoller extends StatefulWidget {
-  const DiceRoller({super.key});
+class ContainerContent extends StatefulWidget {
+  const ContainerContent({super.key});
 
   @override
-  State<DiceRoller> createState() => _DiceRollerState();
+  State<ContainerContent> createState() => _ContainerContentState();
 }
 
-class _DiceRollerState extends State<DiceRoller> {
+class _ContainerContentState extends State<ContainerContent> {
   var activeDiceImage = "lib/assets/images/dice-2.png";
 
   final randomObjectContainer = Random();

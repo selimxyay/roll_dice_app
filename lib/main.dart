@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:udemy_flutter/utilities/gradient_container.dart';
+import 'package:udemy_flutter/utilities/container.dart';
 
 void main() {
   runApp(const MyApp());
@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: GradientContainer(
+      home: RollDiceContainer(
         colors: [Colors.grey.shade300, Colors.grey.shade800],
       ),
     );
